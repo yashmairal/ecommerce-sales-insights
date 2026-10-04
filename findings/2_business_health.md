@@ -12,7 +12,7 @@ The immediate priority is to restore order volume, protect AOV, and identify the
 | June(16 days) | $1.02M | 1,665 | $609.9 | - |
 
 
-##1. Revenue Trajectory & Seasonality
+## 1. Revenue Trajectory & Seasonality
 
 The business reached a clear revenue peak in April before entering a significant deceleration. Revenue increased from $3.64M in March (16 days) to $6.73M in April (30 days), then fell sharply to $3.80M in May, a 43.54% month-over-month decline. June generated $1.02M in the first 16 days, indicating that the weaker trajectory has continued.
 
@@ -20,14 +20,14 @@ Daily revenue reinforces the deterioration and removes calendar-day effects from
 
 The available data does not establish a normal seasonal pattern. The magnitude of the post-April decline is sufficiently large that management should treat it as a material deterioration in trading performance, rather than attribute it to seasonality without further evidence.
 
-##2. AOV vs Volume Dynamics
+## 2. AOV vs Volume Dynamics
 
 The primary driver of the revenue deceleration is order volume, not AOV. AOV increased modestly from $632.80 in March to $646.80 in April (+2.21%), before declining to $621.80 in May (-3.86%) and $609.90 in June (-1.91%).
 The more significant movement occurred in completed orders. Orders increased from 5,751 in March to 10,398 in April (+80.8%), corresponding with the April revenue peak. They subsequently declined to 6,111 in May (-41.2%) and 1,665 in the first 16 days of June.
 
 This indicates a two-stage deterioration. First, the business lost a substantial amount of transaction volume after April. Second, AOV also began declining, falling approximately 5.7% from April to June. Consequently, the current revenue weakness is fundamentally volume-led, with declining AOV adding further pressure.
 
-##3. Strategic Recommendations for the Board
+## 3. Strategic Recommendations for the Board
 
 The immediate priority should be restoring order volume while protecting transaction value.
 
