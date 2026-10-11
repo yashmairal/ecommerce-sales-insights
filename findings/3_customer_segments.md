@@ -1,7 +1,8 @@
 # Recommendation Memo: Q4 Customer Concentration & Growth Strategy
 
-**To:** Chief Marketing Officer
-**From:** Head of Growth Marketing
+
+**To:** Chief Marketing Officer  
+**From:** Head of Growth Marketing  
 **Subject:** Reallocating Q4 Marketing Spend Toward Retention and Customer Lifetime Value
 
 ## 1. The Concentration Reality
